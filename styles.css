@@ -1,0 +1,215 @@
+#title{
+  background-color: #0779e4;
+
+}
+.title-h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 10%;
+  color: white;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+h2{
+font-size: 3rem;
+line-height: 1.5;
+font-family: 'Montserrat';
+text-align: center;
+}
+h3{
+  font-size: 3rem;
+  line-height: 1.5;
+  font-family: 'Montserrat';
+  text-align: center;
+  padding-bottom: 5%;
+  color: #1a508b;
+}
+
+h5{
+font-size: 3rem;
+line-height: 1.5;
+font-family: 'Montserrat';
+text-align: center;
+}
+
+/*
+Nav Bar */
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 120%;
+}
+.download-btn{
+  margin: 3% 5% 3% 0;
+}
+
+/* Features */
+
+#features{
+  background-color: #1a508b;
+  font-family: 'Roboto', sans-serif;
+  padding: 7% 15%;
+}
+
+.features{
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 5%;
+  color: white;
+}
+.features-p{
+  text-align: center;
+  color: #c4b6b6;
+}
+
+.alex{
+  text-align: center;
+}
+
+.fas{
+  color: #ffe227;
+}
+
+.fas:hover{
+  color: #b088f9;
+}
+
+.middle{
+  color: #b088f9;
+}
+
+.middle:hover{
+  color: #ffe227;
+}
+
+/* Testemonials Section */
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #0779e4;
+  color: #fff;
+}
+
+.testimonial-images{
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+
+.carousel-control-prev{
+  padding-right: 12%;
+}
+.carousel-control-next{
+  padding-left: 12%;
+}
+
+.carousel-indicators{
+  margin-top: 20%;
+}
+/* Press Section */
+
+#press{
+  background-color: #0779e4;
+
+}
+
+.col-lg-3{
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 50%;
+}
+
+/* Pricing Section */
+
+#pricing{
+  /* background-color: #1a508b; */
+  margin: 7% 10%;
+
+}
+
+.signup{
+  margin-top: 30%;
+}
+
+.contactus{
+  margin-top: 30%;
+}
+.price{
+  color: #1a508b;
+}
+
+.price-p{
+  text-align: center;
+  margin-bottom: 10%;
+  color: #1a508b;
+  font-size: 140%;
+}
+
+.card-body{
+  color:  #1a508b;
+}
+.card-deck{
+  color: #1a508b;
+
+}
+/*
+CTA  Section */
+#cta{
+}
+
+.cta-button{
+margin-left: 240%;
+}
+
+/* Footer Section */
+#footer{
+  text-align: center;
+  padding-top: 5%;
+  margin-bottom: 0;
+}
+.instagram{
+  text-align: center;
+  padding-bottom: 2%;
+  width: 3%;
+}
+.linkedin{
+  text-align: center;
+  padding-bottom: 2%;
+  width: 3%;
+}
+
+
+
+/*Reactive part*/
+
+@media (max-width:1028px){
+  .title-image{
+    position: static;
+  }
+
+  #title{
+    text-align: center;
+  }
+  .shareicon{
+    width: 60%;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+/* About.html */
+.zenew{
+color: white;
+}

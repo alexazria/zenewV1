@@ -1,0 +1,99 @@
+#explanation{
+    background-color: #0779e4;
+}
+
+#title{
+background-color: #0779e4;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+h1{
+  padding-top: 20%;
+  text-align: center;
+  font-size: 400%;
+  color: white;
+  font-family: 'Montserrat';
+}
+
+h1:hover{
+  color: #b088f9;
+}
+
+.light{
+  width: 30%;
+  margin-left: 80%;
+
+}
+p{
+  margin-top: 20%;
+  color: white;
+  font-size: 150%;
+}
+
+/*
+Nav Bar */
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 120%;
+}
+.download-btn{
+  margin: 3% 5% 3% 0;
+}
+
+
+
+
+/* Paragraph */
+.french{
+  width: 50%;
+  padding-top: 20%;
+  margin-left: 60%;
+}
+
+.shuttle{
+  width: 50%;
+  padding-top: 20%;
+  margin-right: 60%;
+
+}
+
+.google{
+  width: 120%;
+  padding-top: 80%;
+  padding-left: 50%;
+  margin-right: 50%;
+
+}
+
+
+.carousel-control-prev{
+  padding-right: 13%;
+  width: 140%;
+  padding-bottom: 120%;
+}
+.carousel-control-next{
+  padding-bottom: 120%;
+}
+
+
+/* Footer Section */
+#footer{
+  text-align: center;
+  padding-top: 5%;
+  margin-bottom: 0;
+}
+.instagram{
+  text-align: center;
+  padding-bottom: 2%;
+  width: 3%;
+}
+.linkedin{
+  text-align: center;
+  padding-bottom: 2%;
+  width: 3%;
+}
